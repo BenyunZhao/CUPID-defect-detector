@@ -2,8 +2,8 @@ import torch
 from ultralytics.nn.tasks import DetectionModel
 
 if __name__ == '__main__':
-    model_PGI_weights_path = '/home/claude/Pictures/CUPID-ICRA2025/ultralytics/runs-for-test/CUPIDn/weights/best.pt'
-    model_cfg_path = "/home/claude/Pictures/CUPID-ICRA2025/ultralytics/ultralytics/cfg/models/v8/CUPID-no-aux.yaml"
+    model_PGI_weights_path = '/home/claude/Pictures/CUPID/ultralytics/runs-for-test/CUPIDn/weights/best.pt'
+    model_cfg_path = "/home/claude/Pictures/CUPID/ultralytics/ultralytics/cfg/models/v8/CUPID-no-aux.yaml"
     layer_num, aux_layer_num = 23, 39
     
     device = torch.device("cpu")
