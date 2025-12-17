@@ -21,7 +21,7 @@ backbone:
   - [-1, 6, CUPID_Block, [96, 512, 3]]   # stage 2
 
   - [-1, 1, DWConv, [512, 3, 2, 1, False]]  # 4-P4/16
-  - [-1, 6, CUPID_Block_attn, [192, 1024, 1, 6, True, False]]  # cm, c2, k, light, shortcut
+  - [-1, 6, CUPID_Block_attn, [192, 1024, 1, 6, True, False]]
   - [-1, 6, CUPID_Block_attn, [192, 1024, 1, True, True]]
   - [-1, 6, CUPID_Block_attn, [192, 1024, 1, True, True]]  # stage 3
 
