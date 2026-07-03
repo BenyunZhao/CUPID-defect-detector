@@ -62,7 +62,14 @@ python export.py
 python detect.py 
 ```
 
-### Dataset in our work can be available at: <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;"><a href="https:onedrive" style="color: white; text-decoration: none;">OneDrive</a> </button>, <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;"><a href="https:baidu" style="color: white; text-decoration: none;">BaiduNet</a> </button>
+### CUBIT2024 Dataset in our work can be available at: 
+<button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
+<a href="https://pan.baidu.com/s/1lbM7MU3L1Dhi2GpmP3uOBA" style="color: white; text-decoration: none;">BaiduNet; </a> 
+</button> (Password of BaiduNet: 49eq)
+
+<button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
+<a href="https://drive.google.com/drive/folders/1DOCF8E7itN2Qve-rFjDcPRAS3wbwGClL?usp=sharing" style="color: white; text-decoration: none;">Google Drive </a> 
+</button>
 
 
 
