@@ -76,8 +76,19 @@ If you find this project helpful for your research, please consider citing our p
 
 Any questions or academic discussion, please contact me at: byzhao@mae.cuhk.edu.hk
 
-<!-- ```BibTex
-@article{ZHAO2024105405,
+```BibTex
+@INPROCEEDINGS{CUPID,
+booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
+title={Lightweight Yet High-Performance Defect Detector for Uav-Based Large-Scale Infrastructure Real-Time Inspection}, 
+year={2025},
+pages={13675-13682},
+doi={10.1109/ICRA55743.2025.11127758}
+author={Zhao, Benyun and Duan, Qigeng and Yang, Guidong and Tang, Jerry and Song, Zhenbo and Wen, Junjie and Liu, Xuchen and Li, Qingxiang and Lei, Lei and Zhang, Jihan and Chen, Xi and Mueller, Mark W. and Chen, Ben M.},
+}
+```
+
+```BibTex
+@article{cubit-det,
 title = {High-resolution infrastructure defect detection dataset sourced by unmanned systems and validated with deep learning},
 journal = {Automation in Construction},
 volume = {163},
@@ -87,4 +98,17 @@ issn = {0926-5805},
 doi = {https://doi.org/10.1016/j.autcon.2024.105405},
 author = {Benyun Zhao and Xunkuai Zhou and Guidong Yang and Junjie Wen and Jihan Zhang and Jia Dou and Guang Li and Xi Chen and Ben M. Chen},
 }
-``` -->
+```
+
+```BibTex
+@article{cubit-inseg,
+title = {From instance segmentation to physical quantification: High-resolution UAV-based dataset for façade defect assessment},
+journal = {Automation in Construction},
+volume = {188},
+pages = {106980},
+year = {2026},
+issn = {0926-5805},
+doi = {https://doi.org/10.1016/j.autcon.2026.106980},
+author = {Benyun Zhao and Jihan Zhang and Yijun Huang and Xi Chen and Ben M. Chen}
+}
+```
