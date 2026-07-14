@@ -7,7 +7,7 @@
 #### CU-Astro: compact but long-duration UAV
 <img src="Figures/cuastro.png" width="700">
 
-#### Video demonstration [▶️ Watch CU-Astro inspection demonstration video](https://drive.google.com/file/d/1aF60K5ictHUmy_rjEovKXsbXMP1cjLZ5/view?usp=drive_link)
+#### Video demonstration [▶️ Watch CU-Astro inspection demonstration video](https://drive.google.com/file/d/12u3hCvJKBQV5c3Z0kX0gaJrAxbcNmv2O/view?usp=sharing)
 
 ## Usage of this repository
 ### Install
