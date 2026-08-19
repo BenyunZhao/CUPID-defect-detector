@@ -81,7 +81,7 @@ This work was supported by the InnoHK of the Government of the Hong Kong Special
 ## Citation
 If you find this project helpful for your research, please consider citing our paper and giving a ⭐ of this repository.
 
-Any questions or academic discussion, please contact me at: byzhao@mae.cuhk.edu.hk
+Any questions or academic discussion, please contact me at: benyunzhao@link.cuhk.edu.hk
 
 ```BibTex
 @INPROCEEDINGS{CUPID,
