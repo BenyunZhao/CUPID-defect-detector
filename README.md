@@ -76,7 +76,10 @@ python detect.py
 ## Acknowledgement
 This work was supported by the InnoHK of the Government of the Hong Kong Special Administrative Region via the Hong Kong Centre for Logistics Robotics.
 
+## License
+The source code in this repository is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE), consistent with the license of [Ultralytics YOLO v8.1.9](https://github.com/ultralytics/ultralytics/tree/v8.1.9), on which this implementation is based. CUPID-specific modifications are distributed under the same AGPL-3.0 terms. Third-party components remain subject to any license notices included with those components.
 
+The CUBIT2024 dataset linked above is not covered by this software license. Its images, annotations, and metadata are licensed separately under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/); see the [CUBIT dataset repository](https://github.com/BenyunZhao/CUBIT) for details.
 
 ## Citation
 If you find this project helpful for your research, please consider citing our paper and giving a ⭐ of this repository.
